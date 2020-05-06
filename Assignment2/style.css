@@ -1,0 +1,11 @@
+h3{
+    color: rgb(108, 57, 228);
+  text-decoration: underline;
+  font: outline;
+  font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(109, 67, 207);
+}
